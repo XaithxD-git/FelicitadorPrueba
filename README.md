@@ -18,3 +18,5 @@ Una vez abierto en Netbeans, solo basta con darle a "Run Project" y esta lista p
 Para deployar este proyectos es necesario que en su equipo este instalado un servidor Apache y guardar la carpeta del proyecto en la correspondiente ruta definida para ejecutarlo (Yo utilice XAMPP por lo que la ruta es: "C:\xampp\htdocs\"). Si utilizarán el mismo equipo para deployar los 2 proyectos, es necesario cambiar el puerto Apache del 80 al 81, si es en otro equipo, deberán cambiar la URL en el proyecto para comunicarse al equipo que tenga el servidor (En el index.php irá un comentario de donde esta la URL).
 Una vez tenga bien configurado su servidor Apache, puede abrir en su navegador la ruta con el nombre del proyecto.
 Ejemplo : http://localhost:81/FrontEndFelicitador/index.php
+
+Ademas se adjunta una carpeta con capturas de pruebas hechas a lo largo de la programacion.
