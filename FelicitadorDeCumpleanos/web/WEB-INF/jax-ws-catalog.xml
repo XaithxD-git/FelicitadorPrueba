@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://www.poemist.com/api/v1/randompoems" uri="wsdl/www.poemist.com/api/v1/randompoems"/>
+    <system systemId="https://www.poemist.com/api/v1" uri="wsdl/www.poemist.com/api/v1"/>
+</catalog>
